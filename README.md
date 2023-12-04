@@ -17,8 +17,9 @@ Estou começando o aprendizado de:
 A ferramenta que utilizo para programar é o VsCode e carrego meus projetos concluídos aqui no GitHub.
 <br>
 <br>
+
 [![Emerson Stats](https://github-readme-stats.vercel.app/api?username=emervzla)](https://github.com/anuraghazra/github-readme-stats)
-<br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emervzla)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 ### Conecte-se comigo
